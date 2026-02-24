@@ -12,4 +12,4 @@ Antes de iniciar, certifique-se de configurar seu ambiente local e remoto:
 
 <br></br>
 <br></br>
-Continuar para: [**Configuração da Infraestrutura**: Preparando o BTP Cockpit](02-infraestrutura-btp-cockpit/README.md)
+Continuar para: [**Configuração da Infraestrutura**: Preparando o BTP Cockpit](../02-infraestrutura-btp-cockpit/README.md)
