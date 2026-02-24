@@ -21,6 +21,6 @@ Garanta que sua Subaccount tenha cotas para o serviço **SAP BTP ABAP Environmen
 Atribua as funções necessárias ao seu usuário, como `SAP_BR_DEVELOPER` e `SAP_BR_ADMINISTRATOR`.
 
 
-<br>
-<br>
+&nbsp;
+&nbsp;
 Continuar para: [**Software Components**: O papel do gCTS e integração com Git](03-gerenciamento-de-software-components/README.md)
