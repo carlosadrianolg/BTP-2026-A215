@@ -10,5 +10,5 @@ Antes de iniciar, certifique-se de configurar seu ambiente local e remoto:
    * [Documentação do GitHub](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-new-repository) .
 
 
-  
-Próximo: [**Configuração da Infraestrutura**: Preparando o BTP Cockpit](02-infraestrutura-btp-cockpit/README.md)
+
+Continuar para: [**Configuração da Infraestrutura**: Preparando o BTP Cockpit](02-infraestrutura-btp-cockpit/README.md)
