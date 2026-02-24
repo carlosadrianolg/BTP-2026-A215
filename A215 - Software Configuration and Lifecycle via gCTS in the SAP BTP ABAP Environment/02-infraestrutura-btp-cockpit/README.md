@@ -23,4 +23,4 @@ Atribua as funções necessárias ao seu usuário, como `SAP_BR_DEVELOPER` e `SA
 
 <br></br>
 <br></br>
-Continuar para: [**Software Components**: O papel do gCTS e integração com Git](03-gerenciamento-de-software-components/README.md)
+Continuar para: [**Software Components**: O papel do gCTS e integração com Git](../03-gerenciamento-de-software-components/README.md)
