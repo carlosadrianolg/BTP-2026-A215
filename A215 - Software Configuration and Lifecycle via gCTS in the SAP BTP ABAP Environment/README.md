@@ -1,7 +1,7 @@
 # A215 - Software Configuration and Lifecycle via gCTS in the SAP BTP ABAP Environment
 
 
-###📄 Resumo (Abstract)
+📄 ### Resumo (Abstract)
 
 
 Esta sessão fornece um guia técnico detalhado sobre a configuração e operação do SAP BTP ABAP Environment. O conteúdo abrange o gerenciamento de infraestrutura dentro do BTP Cockpit — incluindo o gerenciamento de entitlements e a criação de instâncias de serviço e service keys — até a integração de fluxos de trabalho de desenvolvimento com ferramentas de controle de versão.
