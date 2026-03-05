@@ -6,7 +6,7 @@ Antes de iniciar, certifique-se de configurar seu ambiente local e remoto:
    * Baixe o Eclipse IDE e adicione o ABAP Development Tools (ADT) Plugin.
    * [Guia de Instalação Oficial](https://developers.sap.com/tutorials/abap-install-adt.html).
 
-   1.1.	No Eclipse, vá ao menu Help (Ajuda) > Install New Software... (Instalar Novo Software).
+   1.1.	No Eclipse, vá ao menu Help (Ajuda) > Install New Software... (Instalar Novo Software);
    1.2.	Clique em Add... (Adicionar).
    1.3.	No campo URL, insira: https://tools.hana.ondemand.com/latest.
    1.4.	Pressione Enter, selecione ABAP Development Tools e clique em Next.
