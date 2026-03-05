@@ -21,7 +21,7 @@ Explica o fluxo de versionamento e transporte entre DEV, QAS e PRD.E destaca os 
 <br></br>
 [**SAP CVA - Code Vulnerability Analyzer**](Apresentacao_2026/SAP_CVA_Code_Vulnerability_Analyzer.pdf)
 
-[**SAP CVA Link]( https://pages-community-sap-com.translate.goog/topics/abap-testing-analysis/code-vulnerability-analyzer?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc&_x_tr_hist=true)
+[**SAP CVA Link**]( https://pages-community-sap-com.translate.goog/topics/abap-testing-analysis/code-vulnerability-analyzer?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc&_x_tr_hist=true)
 
 <br></br>
 [**APRESENTAÇÃO**](Apresentacao_2026/SAP_BTP_Experience_2026.pdf)
