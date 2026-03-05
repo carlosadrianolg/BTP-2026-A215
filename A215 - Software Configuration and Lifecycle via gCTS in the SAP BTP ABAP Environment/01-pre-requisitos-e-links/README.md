@@ -21,14 +21,23 @@ Antes de iniciar, certifique-se de configurar seu ambiente local e remoto:
 
 Passo a Passo Detalhado:
 Acesse as Configurações: No canto superior direito do GitHub, clique na sua foto de perfil e selecione Settings (Configurações).
+
 Developer Settings: Na barra lateral esquerda, role até o fim e clique em <> Developer settings.
+
 Fine-grained tokens: Clique em Personal access tokens e selecione Fine-grained tokens.
+
 Gerar Novo Token: Clique no botão Generate new token.
+
 Configurar o Token:
+
 Token name: Dê um nome claro.
+
 Expiration: Escolha uma data de expiração (recomendado).
+
 Resource owner: Selecione seu usuário.
+
 Repository access: Escolha "All repositories" ou "Only select repositories" (recomendado para segurança).
+
 Permissions: Defina as permissões específicas (read/write) que o token terá, como em Contents ou Issues.
 
 <br></br>
