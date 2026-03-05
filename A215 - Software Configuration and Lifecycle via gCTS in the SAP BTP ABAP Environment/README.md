@@ -18,3 +18,5 @@ Explica o fluxo de versionamento e transporte entre DEV, QAS e PRD.E destaca os 
 3. [**Software Components**: O papel do gCTS e integração com Git](03-gerenciamento-de-software-components/README.md)
 4. [**Ambiente de Desenvolvimento**: Prática com ADT (Eclipse)](04-desenvolvimento-e-ciclo-de-vida-adt/README.md)
 5. [**Fluxo de Transporte**: Ciclo de vida entre Desenvolvimento e QA/Produção](05-fluxo-de-transporte-e-git/README.md)
+<br></br>
+6. [**Apresentação completa](apresentação/PPT Hands on Meta SAP BTP Experience em 2026.pdf)
