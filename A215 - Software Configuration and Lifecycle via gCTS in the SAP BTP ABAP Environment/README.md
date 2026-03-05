@@ -24,6 +24,5 @@ Explica o fluxo de versionamento e transporte entre DEV, QAS e PRD.E destaca os 
 [**SAP CVA - Link**]( https://pages-community-sap-com.translate.goog/topics/abap-testing-analysis/code-vulnerability-analyzer?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc&_x_tr_hist=true)
 <br></br>
 [**SAP DevOps Using gCTS, GitHub and Jenkins- Link**](https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-members/sap-devops-using-gcts-github-and-jenkins/ba-p/13500525)
-
 <br></br>
 [**APRESENTAÇÃO**](Apresentacao_2026/SAP_BTP_Experience_2026.pdf)
