@@ -34,5 +34,8 @@ https://help.sap.com/docs/btp/btp-developers-guide-internal/btp-developers-guide
 abap-environment-gcts:
 https://developers.sap.com/tutorials/abap-environment-gcts..html
 <br></br>
+usage-of-abap-test-cockpit-atc-for-developments:
+https://community.sap.com/t5/technology-blog-posts-by-sap/usage-of-abap-test-cockpit-atc-for-developments-in-sap-btp-abap-environment/ba-p/13575890
+<br></br>
 Development in the ABAP Environment
 https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/development-in-abap-environment?q=Transport&version=Cloud&locale=en-US
