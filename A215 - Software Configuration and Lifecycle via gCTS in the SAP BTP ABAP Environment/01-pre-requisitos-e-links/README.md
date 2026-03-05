@@ -20,6 +20,7 @@ Antes de iniciar, certifique-se de configurar seu ambiente local e remoto:
    * [Documentação do GitHub](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-new-repository) .
 
 Passo a Passo Detalhado:
+
 Acesse as Configurações: No canto superior direito do GitHub, clique na sua foto de perfil e selecione Settings (Configurações).
 
 Developer Settings: Na barra lateral esquerda, role até o fim e clique em <> Developer settings.
