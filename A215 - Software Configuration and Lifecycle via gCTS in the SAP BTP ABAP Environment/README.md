@@ -4,10 +4,11 @@
 📄 Resumo
 
 
-Esta sessão fornece um guia técnico sobre a configuração e operação do SAP BTP ABAP Environment. O conteúdo abrange o gerenciamento de infraestrutura dentro do BTP Cockpit — incluindo o gerenciamento de entitlements e a criação de instâncias de serviço e service keys — até a integração de fluxos de trabalho de desenvolvimento com ferramentas de controle de versão.
+Esta sessão apresenta a gestão da infraestrutura e do ciclo de vida no SAP Business Technology Platform ABAP.
+Aborda a transição do transporte tradicional para o modelo baseado em Git com Git-enabled Change and Transport System (gCTS).
+Demonstra o desenvolvimento em ABAP Cloud via ABAP Development Tools (Eclipse).
+Explica o fluxo de versionamento e transporte entre DEV, QAS e PRD.E destaca os benefícios de rastreabilidade e alinhamento com melhores práticas.
 
-
-O foco central é a transição do modelo tradicional de transporte SAP para o **gCTS (Git enabled Change and Transport System)**, onde o ciclo de vida do código é gerenciado via repositórios Git, como o GitHub. O guia detalha o processo de criação de Software Components, conexão com o ADT (Eclipse), desenvolvimento no ABAP Cloud e os mecanismos de push/pull necessários para implantar código entre os ambientes de Desenvolvimento e Qualidade/Produção.
 
 
 ## 🎯 Tópicos Abordados
