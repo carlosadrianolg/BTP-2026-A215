@@ -31,5 +31,8 @@ Explica o fluxo de versionamento e transporte entre DEV, QAS e PRD.E destaca os 
 BTP GUIDE DEVELOP
 https://help.sap.com/docs/btp/btp-developers-guide-internal/btp-developers-guide?locale=en-US&version=Internal&state=DRAFT
 <br></br>
+abap-environment-gcts:
+https://developers.sap.com/tutorials/abap-environment-gcts..html
+<br></br>
 Development in the ABAP Environment
 https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/development-in-abap-environment?q=Transport&version=Cloud&locale=en-US
