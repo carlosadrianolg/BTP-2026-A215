@@ -27,3 +27,5 @@ Explica o fluxo de versionamento e transporte entre DEV, QAS e PRD.E destaca os 
   https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-members/sap-devops-using-gcts-github-and-jenkins/ba-p/13500525
 <br></br>
 [**APRESENTAÇÃO**](Apresentacao_2026/SAP_BTP_Experience_2026.pdf)
+<br></br>
+https://help.sap.com/docs/btp/btp-developers-guide-internal/btp-developers-guide?locale=en-US&version=Internal&state=DRAFT
