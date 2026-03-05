@@ -19,7 +19,7 @@ Antes de iniciar, certifique-se de configurar seu ambiente local e remoto:
    * Crie um novo repositório para hospedar seu código [cite: 23].
    * [Documentação do GitHub](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-new-repository) .
 
-Passo a Passo Detalhado:
+Passo a Passo Detalhado para Token:
 
 Acesse as Configurações: No canto superior direito do GitHub, clique na sua foto de perfil e selecione Settings (Configurações).
 
